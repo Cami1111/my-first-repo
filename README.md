@@ -19,3 +19,6 @@ This is a new line in the README file
 
 
 More Updates
+
+This is a new feature
+I am adding something cool
